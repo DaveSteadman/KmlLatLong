@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Latitude and Longitude Grid</name>
+  <Style id="Level0">
+    <LineStyle>
+      <color>ff0000ff</color>
+      <width>3</width>
+    </LineStyle>
+  </Style>
+  <Style id="Level1">
+    <LineStyle>
+      <color>ff00ff00</color>
+      <width>2</width>
+    </LineStyle>
+  </Style>
+  <Style id="Level2">
+    <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+    </LineStyle>
+  </Style>
+  <Style id="Level3">
+    <LineStyle>
+      <color>777777ff</color>
+      <width>1</width>
+    </LineStyle>
+  </Style>
+  <Style id="textLabelStyle">
+    <LabelStyle>
+      <color>ff0000ff</color>
+      <scale>1.5</scale>
+    </LabelStyle>
+  </Style>
+  <Placemark>
+    <styleUrl>#Level0</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-80.000,0 180,-80.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level0</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-40.000,0 180,-40.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level0</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,0.000,0 180,0.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level0</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,40.000,0 180,40.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level0</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,80.000,0 180,80.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level0</styleUrl>
+    <LineString>
+      <coordinates>
+        -180.000,-80,0 -180.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level0</styleUrl>
+    <LineString>
+      <coordinates>
+        -135.000,-80,0 -135.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level0</styleUrl>
+    <LineString>
+      <coordinates>
+        -90.000,-80,0 -90.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level0</styleUrl>
+    <LineString>
+      <coordinates>
+        -45.000,-80,0 -45.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level0</styleUrl>
+    <LineString>
+      <coordinates>
+        0.000,-80,0 0.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level0</styleUrl>
+    <LineString>
+      <coordinates>
+        45.000,-80,0 45.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level0</styleUrl>
+    <LineString>
+      <coordinates>
+        90.000,-80,0 90.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level0</styleUrl>
+    <LineString>
+      <coordinates>
+        135.000,-80,0 135.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level0</styleUrl>
+    <LineString>
+      <coordinates>
+        180.000,-80,0 180.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+</Document>
+</kml>

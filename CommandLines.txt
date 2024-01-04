@@ -1,0 +1,7 @@
+CommandLines
+============
+
+    dotnet new console -n KmlLatLong
+
+    dotnet build
+    dotnet run

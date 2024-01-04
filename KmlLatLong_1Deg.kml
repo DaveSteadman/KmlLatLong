@@ -1,0 +1,4212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Latitude and Longitude Grid</name>
+  <Style id="Level0">
+    <LineStyle>
+      <color>ff0000ff</color>
+      <width>3</width>
+    </LineStyle>
+  </Style>
+  <Style id="Level1">
+    <LineStyle>
+      <color>ff00ff00</color>
+      <width>2</width>
+    </LineStyle>
+  </Style>
+  <Style id="Level2">
+    <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+    </LineStyle>
+  </Style>
+  <Style id="Level3">
+    <LineStyle>
+      <color>777777ff</color>
+      <width>1</width>
+    </LineStyle>
+  </Style>
+  <Style id="textLabelStyle">
+    <LabelStyle>
+      <color>ff0000ff</color>
+      <scale>1.5</scale>
+    </LabelStyle>
+  </Style>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-80.000,0 180,-80.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-79.000,0 180,-79.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-78.000,0 180,-78.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-77.000,0 180,-77.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-76.000,0 180,-76.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-75.000,0 180,-75.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-74.000,0 180,-74.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-73.000,0 180,-73.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-72.000,0 180,-72.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-71.000,0 180,-71.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-70.000,0 180,-70.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-69.000,0 180,-69.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-68.000,0 180,-68.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-67.000,0 180,-67.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-66.000,0 180,-66.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-65.000,0 180,-65.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-64.000,0 180,-64.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-63.000,0 180,-63.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-62.000,0 180,-62.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-61.000,0 180,-61.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-60.000,0 180,-60.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-59.000,0 180,-59.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-58.000,0 180,-58.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-57.000,0 180,-57.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-56.000,0 180,-56.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-55.000,0 180,-55.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-54.000,0 180,-54.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-53.000,0 180,-53.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-52.000,0 180,-52.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-51.000,0 180,-51.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-50.000,0 180,-50.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-49.000,0 180,-49.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-48.000,0 180,-48.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-47.000,0 180,-47.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-46.000,0 180,-46.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-45.000,0 180,-45.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-44.000,0 180,-44.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-43.000,0 180,-43.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-42.000,0 180,-42.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-41.000,0 180,-41.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-40.000,0 180,-40.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-39.000,0 180,-39.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-38.000,0 180,-38.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-37.000,0 180,-37.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-36.000,0 180,-36.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-35.000,0 180,-35.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-34.000,0 180,-34.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-33.000,0 180,-33.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-32.000,0 180,-32.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-31.000,0 180,-31.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-30.000,0 180,-30.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-29.000,0 180,-29.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-28.000,0 180,-28.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-27.000,0 180,-27.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-26.000,0 180,-26.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-25.000,0 180,-25.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-24.000,0 180,-24.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-23.000,0 180,-23.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-22.000,0 180,-22.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-21.000,0 180,-21.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-20.000,0 180,-20.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-19.000,0 180,-19.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-18.000,0 180,-18.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-17.000,0 180,-17.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-16.000,0 180,-16.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-15.000,0 180,-15.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-14.000,0 180,-14.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-13.000,0 180,-13.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-12.000,0 180,-12.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-11.000,0 180,-11.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-10.000,0 180,-10.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-9.000,0 180,-9.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-8.000,0 180,-8.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-7.000,0 180,-7.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-6.000,0 180,-6.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-5.000,0 180,-5.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-4.000,0 180,-4.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-3.000,0 180,-3.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-2.000,0 180,-2.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-1.000,0 180,-1.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,0.000,0 180,0.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,1.000,0 180,1.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,2.000,0 180,2.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,3.000,0 180,3.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,4.000,0 180,4.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,5.000,0 180,5.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,6.000,0 180,6.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,7.000,0 180,7.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,8.000,0 180,8.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,9.000,0 180,9.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,10.000,0 180,10.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,11.000,0 180,11.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,12.000,0 180,12.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,13.000,0 180,13.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,14.000,0 180,14.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,15.000,0 180,15.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,16.000,0 180,16.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,17.000,0 180,17.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,18.000,0 180,18.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,19.000,0 180,19.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,20.000,0 180,20.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,21.000,0 180,21.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,22.000,0 180,22.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,23.000,0 180,23.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,24.000,0 180,24.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,25.000,0 180,25.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,26.000,0 180,26.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,27.000,0 180,27.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,28.000,0 180,28.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,29.000,0 180,29.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,30.000,0 180,30.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,31.000,0 180,31.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,32.000,0 180,32.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,33.000,0 180,33.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,34.000,0 180,34.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,35.000,0 180,35.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,36.000,0 180,36.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,37.000,0 180,37.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,38.000,0 180,38.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,39.000,0 180,39.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,40.000,0 180,40.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,41.000,0 180,41.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,42.000,0 180,42.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,43.000,0 180,43.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,44.000,0 180,44.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,45.000,0 180,45.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,46.000,0 180,46.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,47.000,0 180,47.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,48.000,0 180,48.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,49.000,0 180,49.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,50.000,0 180,50.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,51.000,0 180,51.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,52.000,0 180,52.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,53.000,0 180,53.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,54.000,0 180,54.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,55.000,0 180,55.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,56.000,0 180,56.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,57.000,0 180,57.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,58.000,0 180,58.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,59.000,0 180,59.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,60.000,0 180,60.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,61.000,0 180,61.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,62.000,0 180,62.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,63.000,0 180,63.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,64.000,0 180,64.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,65.000,0 180,65.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,66.000,0 180,66.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,67.000,0 180,67.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,68.000,0 180,68.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,69.000,0 180,69.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,70.000,0 180,70.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,71.000,0 180,71.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,72.000,0 180,72.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,73.000,0 180,73.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,74.000,0 180,74.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,75.000,0 180,75.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,76.000,0 180,76.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,77.000,0 180,77.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,78.000,0 180,78.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,79.000,0 180,79.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,80.000,0 180,80.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -180.000,-80,0 -180.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -179.000,-80,0 -179.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -178.000,-80,0 -178.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -177.000,-80,0 -177.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -176.000,-80,0 -176.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -175.000,-80,0 -175.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -174.000,-80,0 -174.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -173.000,-80,0 -173.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -172.000,-80,0 -172.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -171.000,-80,0 -171.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -170.000,-80,0 -170.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -169.000,-80,0 -169.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -168.000,-80,0 -168.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -167.000,-80,0 -167.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -166.000,-80,0 -166.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -165.000,-80,0 -165.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -164.000,-80,0 -164.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -163.000,-80,0 -163.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -162.000,-80,0 -162.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -161.000,-80,0 -161.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -160.000,-80,0 -160.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -159.000,-80,0 -159.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -158.000,-80,0 -158.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -157.000,-80,0 -157.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -156.000,-80,0 -156.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -155.000,-80,0 -155.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -154.000,-80,0 -154.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -153.000,-80,0 -153.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -152.000,-80,0 -152.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -151.000,-80,0 -151.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -150.000,-80,0 -150.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -149.000,-80,0 -149.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -148.000,-80,0 -148.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -147.000,-80,0 -147.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -146.000,-80,0 -146.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -145.000,-80,0 -145.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -144.000,-80,0 -144.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -143.000,-80,0 -143.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -142.000,-80,0 -142.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -141.000,-80,0 -141.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -140.000,-80,0 -140.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -139.000,-80,0 -139.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -138.000,-80,0 -138.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -137.000,-80,0 -137.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -136.000,-80,0 -136.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -135.000,-80,0 -135.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -134.000,-80,0 -134.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -133.000,-80,0 -133.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -132.000,-80,0 -132.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -131.000,-80,0 -131.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -130.000,-80,0 -130.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -129.000,-80,0 -129.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -128.000,-80,0 -128.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -127.000,-80,0 -127.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -126.000,-80,0 -126.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -125.000,-80,0 -125.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -124.000,-80,0 -124.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -123.000,-80,0 -123.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -122.000,-80,0 -122.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -121.000,-80,0 -121.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -120.000,-80,0 -120.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -119.000,-80,0 -119.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -118.000,-80,0 -118.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -117.000,-80,0 -117.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -116.000,-80,0 -116.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -115.000,-80,0 -115.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -114.000,-80,0 -114.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -113.000,-80,0 -113.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -112.000,-80,0 -112.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -111.000,-80,0 -111.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -110.000,-80,0 -110.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -109.000,-80,0 -109.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -108.000,-80,0 -108.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -107.000,-80,0 -107.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -106.000,-80,0 -106.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -105.000,-80,0 -105.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -104.000,-80,0 -104.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -103.000,-80,0 -103.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -102.000,-80,0 -102.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -101.000,-80,0 -101.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -100.000,-80,0 -100.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -99.000,-80,0 -99.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -98.000,-80,0 -98.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -97.000,-80,0 -97.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -96.000,-80,0 -96.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -95.000,-80,0 -95.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -94.000,-80,0 -94.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -93.000,-80,0 -93.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -92.000,-80,0 -92.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -91.000,-80,0 -91.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -90.000,-80,0 -90.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -89.000,-80,0 -89.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -88.000,-80,0 -88.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -87.000,-80,0 -87.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -86.000,-80,0 -86.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -85.000,-80,0 -85.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -84.000,-80,0 -84.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -83.000,-80,0 -83.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -82.000,-80,0 -82.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -81.000,-80,0 -81.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -80.000,-80,0 -80.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -79.000,-80,0 -79.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -78.000,-80,0 -78.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -77.000,-80,0 -77.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -76.000,-80,0 -76.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -75.000,-80,0 -75.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -74.000,-80,0 -74.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -73.000,-80,0 -73.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -72.000,-80,0 -72.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -71.000,-80,0 -71.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -70.000,-80,0 -70.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -69.000,-80,0 -69.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -68.000,-80,0 -68.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -67.000,-80,0 -67.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -66.000,-80,0 -66.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -65.000,-80,0 -65.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -64.000,-80,0 -64.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -63.000,-80,0 -63.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -62.000,-80,0 -62.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -61.000,-80,0 -61.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -60.000,-80,0 -60.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -59.000,-80,0 -59.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -58.000,-80,0 -58.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -57.000,-80,0 -57.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -56.000,-80,0 -56.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -55.000,-80,0 -55.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -54.000,-80,0 -54.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -53.000,-80,0 -53.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -52.000,-80,0 -52.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -51.000,-80,0 -51.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -50.000,-80,0 -50.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -49.000,-80,0 -49.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -48.000,-80,0 -48.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -47.000,-80,0 -47.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -46.000,-80,0 -46.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -45.000,-80,0 -45.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -44.000,-80,0 -44.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -43.000,-80,0 -43.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -42.000,-80,0 -42.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -41.000,-80,0 -41.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -40.000,-80,0 -40.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -39.000,-80,0 -39.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -38.000,-80,0 -38.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -37.000,-80,0 -37.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -36.000,-80,0 -36.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -35.000,-80,0 -35.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -34.000,-80,0 -34.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -33.000,-80,0 -33.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -32.000,-80,0 -32.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -31.000,-80,0 -31.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -30.000,-80,0 -30.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -29.000,-80,0 -29.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -28.000,-80,0 -28.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -27.000,-80,0 -27.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -26.000,-80,0 -26.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -25.000,-80,0 -25.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -24.000,-80,0 -24.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -23.000,-80,0 -23.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -22.000,-80,0 -22.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -21.000,-80,0 -21.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -20.000,-80,0 -20.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -19.000,-80,0 -19.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -18.000,-80,0 -18.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -17.000,-80,0 -17.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -16.000,-80,0 -16.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -15.000,-80,0 -15.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -14.000,-80,0 -14.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -13.000,-80,0 -13.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -12.000,-80,0 -12.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -11.000,-80,0 -11.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -10.000,-80,0 -10.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -9.000,-80,0 -9.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -8.000,-80,0 -8.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -7.000,-80,0 -7.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -6.000,-80,0 -6.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -5.000,-80,0 -5.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -4.000,-80,0 -4.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -3.000,-80,0 -3.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -2.000,-80,0 -2.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        -1.000,-80,0 -1.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        0.000,-80,0 0.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        1.000,-80,0 1.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        2.000,-80,0 2.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        3.000,-80,0 3.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        4.000,-80,0 4.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        5.000,-80,0 5.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        6.000,-80,0 6.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        7.000,-80,0 7.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        8.000,-80,0 8.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        9.000,-80,0 9.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        10.000,-80,0 10.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        11.000,-80,0 11.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        12.000,-80,0 12.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        13.000,-80,0 13.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        14.000,-80,0 14.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        15.000,-80,0 15.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        16.000,-80,0 16.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        17.000,-80,0 17.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        18.000,-80,0 18.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        19.000,-80,0 19.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        20.000,-80,0 20.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        21.000,-80,0 21.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        22.000,-80,0 22.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        23.000,-80,0 23.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        24.000,-80,0 24.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        25.000,-80,0 25.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        26.000,-80,0 26.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        27.000,-80,0 27.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        28.000,-80,0 28.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        29.000,-80,0 29.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        30.000,-80,0 30.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        31.000,-80,0 31.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        32.000,-80,0 32.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        33.000,-80,0 33.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        34.000,-80,0 34.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        35.000,-80,0 35.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        36.000,-80,0 36.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        37.000,-80,0 37.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        38.000,-80,0 38.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        39.000,-80,0 39.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        40.000,-80,0 40.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        41.000,-80,0 41.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        42.000,-80,0 42.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        43.000,-80,0 43.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        44.000,-80,0 44.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        45.000,-80,0 45.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        46.000,-80,0 46.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        47.000,-80,0 47.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        48.000,-80,0 48.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        49.000,-80,0 49.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        50.000,-80,0 50.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        51.000,-80,0 51.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        52.000,-80,0 52.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        53.000,-80,0 53.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        54.000,-80,0 54.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        55.000,-80,0 55.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        56.000,-80,0 56.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        57.000,-80,0 57.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        58.000,-80,0 58.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        59.000,-80,0 59.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        60.000,-80,0 60.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        61.000,-80,0 61.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        62.000,-80,0 62.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        63.000,-80,0 63.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        64.000,-80,0 64.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        65.000,-80,0 65.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        66.000,-80,0 66.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        67.000,-80,0 67.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        68.000,-80,0 68.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        69.000,-80,0 69.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        70.000,-80,0 70.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        71.000,-80,0 71.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        72.000,-80,0 72.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        73.000,-80,0 73.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        74.000,-80,0 74.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        75.000,-80,0 75.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        76.000,-80,0 76.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        77.000,-80,0 77.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        78.000,-80,0 78.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        79.000,-80,0 79.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        80.000,-80,0 80.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        81.000,-80,0 81.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        82.000,-80,0 82.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        83.000,-80,0 83.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        84.000,-80,0 84.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        85.000,-80,0 85.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        86.000,-80,0 86.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        87.000,-80,0 87.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        88.000,-80,0 88.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        89.000,-80,0 89.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        90.000,-80,0 90.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        91.000,-80,0 91.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        92.000,-80,0 92.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        93.000,-80,0 93.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        94.000,-80,0 94.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        95.000,-80,0 95.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        96.000,-80,0 96.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        97.000,-80,0 97.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        98.000,-80,0 98.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        99.000,-80,0 99.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        100.000,-80,0 100.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        101.000,-80,0 101.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        102.000,-80,0 102.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        103.000,-80,0 103.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        104.000,-80,0 104.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        105.000,-80,0 105.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        106.000,-80,0 106.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        107.000,-80,0 107.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        108.000,-80,0 108.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        109.000,-80,0 109.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        110.000,-80,0 110.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        111.000,-80,0 111.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        112.000,-80,0 112.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        113.000,-80,0 113.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        114.000,-80,0 114.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        115.000,-80,0 115.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        116.000,-80,0 116.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        117.000,-80,0 117.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        118.000,-80,0 118.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        119.000,-80,0 119.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        120.000,-80,0 120.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        121.000,-80,0 121.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        122.000,-80,0 122.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        123.000,-80,0 123.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        124.000,-80,0 124.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        125.000,-80,0 125.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        126.000,-80,0 126.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        127.000,-80,0 127.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        128.000,-80,0 128.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        129.000,-80,0 129.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        130.000,-80,0 130.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        131.000,-80,0 131.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        132.000,-80,0 132.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        133.000,-80,0 133.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        134.000,-80,0 134.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        135.000,-80,0 135.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        136.000,-80,0 136.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        137.000,-80,0 137.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        138.000,-80,0 138.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        139.000,-80,0 139.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        140.000,-80,0 140.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        141.000,-80,0 141.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        142.000,-80,0 142.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        143.000,-80,0 143.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        144.000,-80,0 144.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        145.000,-80,0 145.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        146.000,-80,0 146.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        147.000,-80,0 147.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        148.000,-80,0 148.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        149.000,-80,0 149.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        150.000,-80,0 150.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        151.000,-80,0 151.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        152.000,-80,0 152.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        153.000,-80,0 153.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        154.000,-80,0 154.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        155.000,-80,0 155.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        156.000,-80,0 156.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        157.000,-80,0 157.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        158.000,-80,0 158.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        159.000,-80,0 159.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        160.000,-80,0 160.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        161.000,-80,0 161.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        162.000,-80,0 162.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        163.000,-80,0 163.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        164.000,-80,0 164.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        165.000,-80,0 165.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        166.000,-80,0 166.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        167.000,-80,0 167.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        168.000,-80,0 168.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        169.000,-80,0 169.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        170.000,-80,0 170.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        171.000,-80,0 171.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        172.000,-80,0 172.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        173.000,-80,0 173.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        174.000,-80,0 174.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        175.000,-80,0 175.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        176.000,-80,0 176.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        177.000,-80,0 177.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        178.000,-80,0 178.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        179.000,-80,0 179.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level2</styleUrl>
+    <LineString>
+      <coordinates>
+        180.000,-80,0 180.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+</Document>
+</kml>
