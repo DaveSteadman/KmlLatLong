@@ -1,0 +1,5314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Latitude and Longitude Grid</name>
+<Style id="Level0"><LineStyle><color>ff0000ff</color><width>3</width></LineStyle></Style>
+<Style id="Level1"><LineStyle><color>ff00ff00</color><width>2</width></LineStyle></Style>
+<Style id="Level2"><LineStyle><color>ffff0000</color><width>1</width></LineStyle></Style>
+<Style id="Level3"><LineStyle><color>66666666</color><width>1</width></LineStyle></Style>
+<Style id="LabelStyleLevel0"><LabelStyle><color>ff0000ff</color><scale>1.0</scale></LabelStyle></Style>
+<Style id="LabelStyleLevel1"><LabelStyle><color>ff00ff00</color><scale>1.0</scale></LabelStyle></Style>
+<Style id="LabelStyleLevel2"><LabelStyle><color>ffffdddd</color><scale>1.0</scale></LabelStyle></Style>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -80</name>
+    <Point>
+      <coordinates>
+        -177.5,-80,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -80</name>
+    <Point>
+      <coordinates>
+        -132.5,-80,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -80</name>
+    <Point>
+      <coordinates>
+        -87.5,-80,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -80</name>
+    <Point>
+      <coordinates>
+        -42.5,-80,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -80</name>
+    <Point>
+      <coordinates>
+        2.5,-80,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -80</name>
+    <Point>
+      <coordinates>
+        47.5,-80,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -80</name>
+    <Point>
+      <coordinates>
+        92.5,-80,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -80</name>
+    <Point>
+      <coordinates>
+        137.5,-80,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -80</name>
+    <Point>
+      <coordinates>
+        182.5,-80,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -75</name>
+    <Point>
+      <coordinates>
+        -177.5,-75,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -75</name>
+    <Point>
+      <coordinates>
+        -132.5,-75,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -75</name>
+    <Point>
+      <coordinates>
+        -87.5,-75,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -75</name>
+    <Point>
+      <coordinates>
+        -42.5,-75,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -75</name>
+    <Point>
+      <coordinates>
+        2.5,-75,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -75</name>
+    <Point>
+      <coordinates>
+        47.5,-75,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -75</name>
+    <Point>
+      <coordinates>
+        92.5,-75,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -75</name>
+    <Point>
+      <coordinates>
+        137.5,-75,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -75</name>
+    <Point>
+      <coordinates>
+        182.5,-75,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -70</name>
+    <Point>
+      <coordinates>
+        -177.5,-70,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -70</name>
+    <Point>
+      <coordinates>
+        -132.5,-70,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -70</name>
+    <Point>
+      <coordinates>
+        -87.5,-70,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -70</name>
+    <Point>
+      <coordinates>
+        -42.5,-70,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -70</name>
+    <Point>
+      <coordinates>
+        2.5,-70,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -70</name>
+    <Point>
+      <coordinates>
+        47.5,-70,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -70</name>
+    <Point>
+      <coordinates>
+        92.5,-70,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -70</name>
+    <Point>
+      <coordinates>
+        137.5,-70,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -70</name>
+    <Point>
+      <coordinates>
+        182.5,-70,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -65</name>
+    <Point>
+      <coordinates>
+        -177.5,-65,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -65</name>
+    <Point>
+      <coordinates>
+        -132.5,-65,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -65</name>
+    <Point>
+      <coordinates>
+        -87.5,-65,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -65</name>
+    <Point>
+      <coordinates>
+        -42.5,-65,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -65</name>
+    <Point>
+      <coordinates>
+        2.5,-65,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -65</name>
+    <Point>
+      <coordinates>
+        47.5,-65,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -65</name>
+    <Point>
+      <coordinates>
+        92.5,-65,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -65</name>
+    <Point>
+      <coordinates>
+        137.5,-65,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -65</name>
+    <Point>
+      <coordinates>
+        182.5,-65,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -60</name>
+    <Point>
+      <coordinates>
+        -177.5,-60,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -60</name>
+    <Point>
+      <coordinates>
+        -132.5,-60,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -60</name>
+    <Point>
+      <coordinates>
+        -87.5,-60,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -60</name>
+    <Point>
+      <coordinates>
+        -42.5,-60,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -60</name>
+    <Point>
+      <coordinates>
+        2.5,-60,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -60</name>
+    <Point>
+      <coordinates>
+        47.5,-60,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -60</name>
+    <Point>
+      <coordinates>
+        92.5,-60,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -60</name>
+    <Point>
+      <coordinates>
+        137.5,-60,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -60</name>
+    <Point>
+      <coordinates>
+        182.5,-60,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -55</name>
+    <Point>
+      <coordinates>
+        -177.5,-55,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -55</name>
+    <Point>
+      <coordinates>
+        -132.5,-55,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -55</name>
+    <Point>
+      <coordinates>
+        -87.5,-55,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -55</name>
+    <Point>
+      <coordinates>
+        -42.5,-55,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -55</name>
+    <Point>
+      <coordinates>
+        2.5,-55,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -55</name>
+    <Point>
+      <coordinates>
+        47.5,-55,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -55</name>
+    <Point>
+      <coordinates>
+        92.5,-55,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -55</name>
+    <Point>
+      <coordinates>
+        137.5,-55,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -55</name>
+    <Point>
+      <coordinates>
+        182.5,-55,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -50</name>
+    <Point>
+      <coordinates>
+        -177.5,-50,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -50</name>
+    <Point>
+      <coordinates>
+        -132.5,-50,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -50</name>
+    <Point>
+      <coordinates>
+        -87.5,-50,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -50</name>
+    <Point>
+      <coordinates>
+        -42.5,-50,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -50</name>
+    <Point>
+      <coordinates>
+        2.5,-50,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -50</name>
+    <Point>
+      <coordinates>
+        47.5,-50,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -50</name>
+    <Point>
+      <coordinates>
+        92.5,-50,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -50</name>
+    <Point>
+      <coordinates>
+        137.5,-50,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -50</name>
+    <Point>
+      <coordinates>
+        182.5,-50,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -45</name>
+    <Point>
+      <coordinates>
+        -177.5,-45,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -45</name>
+    <Point>
+      <coordinates>
+        -132.5,-45,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -45</name>
+    <Point>
+      <coordinates>
+        -87.5,-45,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -45</name>
+    <Point>
+      <coordinates>
+        -42.5,-45,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -45</name>
+    <Point>
+      <coordinates>
+        2.5,-45,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -45</name>
+    <Point>
+      <coordinates>
+        47.5,-45,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -45</name>
+    <Point>
+      <coordinates>
+        92.5,-45,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -45</name>
+    <Point>
+      <coordinates>
+        137.5,-45,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -45</name>
+    <Point>
+      <coordinates>
+        182.5,-45,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -40</name>
+    <Point>
+      <coordinates>
+        -177.5,-40,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -40</name>
+    <Point>
+      <coordinates>
+        -132.5,-40,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -40</name>
+    <Point>
+      <coordinates>
+        -87.5,-40,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -40</name>
+    <Point>
+      <coordinates>
+        -42.5,-40,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -40</name>
+    <Point>
+      <coordinates>
+        2.5,-40,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -40</name>
+    <Point>
+      <coordinates>
+        47.5,-40,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -40</name>
+    <Point>
+      <coordinates>
+        92.5,-40,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -40</name>
+    <Point>
+      <coordinates>
+        137.5,-40,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -40</name>
+    <Point>
+      <coordinates>
+        182.5,-40,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -35</name>
+    <Point>
+      <coordinates>
+        -177.5,-35,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -35</name>
+    <Point>
+      <coordinates>
+        -132.5,-35,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -35</name>
+    <Point>
+      <coordinates>
+        -87.5,-35,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -35</name>
+    <Point>
+      <coordinates>
+        -42.5,-35,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -35</name>
+    <Point>
+      <coordinates>
+        2.5,-35,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -35</name>
+    <Point>
+      <coordinates>
+        47.5,-35,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -35</name>
+    <Point>
+      <coordinates>
+        92.5,-35,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -35</name>
+    <Point>
+      <coordinates>
+        137.5,-35,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -35</name>
+    <Point>
+      <coordinates>
+        182.5,-35,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -30</name>
+    <Point>
+      <coordinates>
+        -177.5,-30,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -30</name>
+    <Point>
+      <coordinates>
+        -132.5,-30,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -30</name>
+    <Point>
+      <coordinates>
+        -87.5,-30,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -30</name>
+    <Point>
+      <coordinates>
+        -42.5,-30,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -30</name>
+    <Point>
+      <coordinates>
+        2.5,-30,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -30</name>
+    <Point>
+      <coordinates>
+        47.5,-30,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -30</name>
+    <Point>
+      <coordinates>
+        92.5,-30,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -30</name>
+    <Point>
+      <coordinates>
+        137.5,-30,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -30</name>
+    <Point>
+      <coordinates>
+        182.5,-30,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -25</name>
+    <Point>
+      <coordinates>
+        -177.5,-25,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -25</name>
+    <Point>
+      <coordinates>
+        -132.5,-25,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -25</name>
+    <Point>
+      <coordinates>
+        -87.5,-25,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -25</name>
+    <Point>
+      <coordinates>
+        -42.5,-25,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -25</name>
+    <Point>
+      <coordinates>
+        2.5,-25,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -25</name>
+    <Point>
+      <coordinates>
+        47.5,-25,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -25</name>
+    <Point>
+      <coordinates>
+        92.5,-25,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -25</name>
+    <Point>
+      <coordinates>
+        137.5,-25,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -25</name>
+    <Point>
+      <coordinates>
+        182.5,-25,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -20</name>
+    <Point>
+      <coordinates>
+        -177.5,-20,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -20</name>
+    <Point>
+      <coordinates>
+        -132.5,-20,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -20</name>
+    <Point>
+      <coordinates>
+        -87.5,-20,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -20</name>
+    <Point>
+      <coordinates>
+        -42.5,-20,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -20</name>
+    <Point>
+      <coordinates>
+        2.5,-20,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -20</name>
+    <Point>
+      <coordinates>
+        47.5,-20,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -20</name>
+    <Point>
+      <coordinates>
+        92.5,-20,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -20</name>
+    <Point>
+      <coordinates>
+        137.5,-20,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -20</name>
+    <Point>
+      <coordinates>
+        182.5,-20,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -15</name>
+    <Point>
+      <coordinates>
+        -177.5,-15,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -15</name>
+    <Point>
+      <coordinates>
+        -132.5,-15,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -15</name>
+    <Point>
+      <coordinates>
+        -87.5,-15,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -15</name>
+    <Point>
+      <coordinates>
+        -42.5,-15,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -15</name>
+    <Point>
+      <coordinates>
+        2.5,-15,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -15</name>
+    <Point>
+      <coordinates>
+        47.5,-15,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -15</name>
+    <Point>
+      <coordinates>
+        92.5,-15,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -15</name>
+    <Point>
+      <coordinates>
+        137.5,-15,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -15</name>
+    <Point>
+      <coordinates>
+        182.5,-15,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -10</name>
+    <Point>
+      <coordinates>
+        -177.5,-10,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -10</name>
+    <Point>
+      <coordinates>
+        -132.5,-10,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -10</name>
+    <Point>
+      <coordinates>
+        -87.5,-10,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -10</name>
+    <Point>
+      <coordinates>
+        -42.5,-10,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -10</name>
+    <Point>
+      <coordinates>
+        2.5,-10,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -10</name>
+    <Point>
+      <coordinates>
+        47.5,-10,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -10</name>
+    <Point>
+      <coordinates>
+        92.5,-10,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -10</name>
+    <Point>
+      <coordinates>
+        137.5,-10,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -10</name>
+    <Point>
+      <coordinates>
+        182.5,-10,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -5</name>
+    <Point>
+      <coordinates>
+        -177.5,-5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -5</name>
+    <Point>
+      <coordinates>
+        -132.5,-5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -5</name>
+    <Point>
+      <coordinates>
+        -87.5,-5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -5</name>
+    <Point>
+      <coordinates>
+        -42.5,-5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -5</name>
+    <Point>
+      <coordinates>
+        2.5,-5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -5</name>
+    <Point>
+      <coordinates>
+        47.5,-5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -5</name>
+    <Point>
+      <coordinates>
+        92.5,-5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -5</name>
+    <Point>
+      <coordinates>
+        137.5,-5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat -5</name>
+    <Point>
+      <coordinates>
+        182.5,-5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 0</name>
+    <Point>
+      <coordinates>
+        -177.5,0,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 0</name>
+    <Point>
+      <coordinates>
+        -132.5,0,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 0</name>
+    <Point>
+      <coordinates>
+        -87.5,0,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 0</name>
+    <Point>
+      <coordinates>
+        -42.5,0,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 0</name>
+    <Point>
+      <coordinates>
+        2.5,0,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 0</name>
+    <Point>
+      <coordinates>
+        47.5,0,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 0</name>
+    <Point>
+      <coordinates>
+        92.5,0,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 0</name>
+    <Point>
+      <coordinates>
+        137.5,0,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 0</name>
+    <Point>
+      <coordinates>
+        182.5,0,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 5</name>
+    <Point>
+      <coordinates>
+        -177.5,5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 5</name>
+    <Point>
+      <coordinates>
+        -132.5,5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 5</name>
+    <Point>
+      <coordinates>
+        -87.5,5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 5</name>
+    <Point>
+      <coordinates>
+        -42.5,5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 5</name>
+    <Point>
+      <coordinates>
+        2.5,5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 5</name>
+    <Point>
+      <coordinates>
+        47.5,5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 5</name>
+    <Point>
+      <coordinates>
+        92.5,5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 5</name>
+    <Point>
+      <coordinates>
+        137.5,5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 5</name>
+    <Point>
+      <coordinates>
+        182.5,5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 10</name>
+    <Point>
+      <coordinates>
+        -177.5,10,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 10</name>
+    <Point>
+      <coordinates>
+        -132.5,10,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 10</name>
+    <Point>
+      <coordinates>
+        -87.5,10,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 10</name>
+    <Point>
+      <coordinates>
+        -42.5,10,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 10</name>
+    <Point>
+      <coordinates>
+        2.5,10,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 10</name>
+    <Point>
+      <coordinates>
+        47.5,10,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 10</name>
+    <Point>
+      <coordinates>
+        92.5,10,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 10</name>
+    <Point>
+      <coordinates>
+        137.5,10,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 10</name>
+    <Point>
+      <coordinates>
+        182.5,10,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 15</name>
+    <Point>
+      <coordinates>
+        -177.5,15,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 15</name>
+    <Point>
+      <coordinates>
+        -132.5,15,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 15</name>
+    <Point>
+      <coordinates>
+        -87.5,15,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 15</name>
+    <Point>
+      <coordinates>
+        -42.5,15,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 15</name>
+    <Point>
+      <coordinates>
+        2.5,15,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 15</name>
+    <Point>
+      <coordinates>
+        47.5,15,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 15</name>
+    <Point>
+      <coordinates>
+        92.5,15,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 15</name>
+    <Point>
+      <coordinates>
+        137.5,15,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 15</name>
+    <Point>
+      <coordinates>
+        182.5,15,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 20</name>
+    <Point>
+      <coordinates>
+        -177.5,20,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 20</name>
+    <Point>
+      <coordinates>
+        -132.5,20,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 20</name>
+    <Point>
+      <coordinates>
+        -87.5,20,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 20</name>
+    <Point>
+      <coordinates>
+        -42.5,20,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 20</name>
+    <Point>
+      <coordinates>
+        2.5,20,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 20</name>
+    <Point>
+      <coordinates>
+        47.5,20,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 20</name>
+    <Point>
+      <coordinates>
+        92.5,20,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 20</name>
+    <Point>
+      <coordinates>
+        137.5,20,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 20</name>
+    <Point>
+      <coordinates>
+        182.5,20,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 25</name>
+    <Point>
+      <coordinates>
+        -177.5,25,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 25</name>
+    <Point>
+      <coordinates>
+        -132.5,25,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 25</name>
+    <Point>
+      <coordinates>
+        -87.5,25,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 25</name>
+    <Point>
+      <coordinates>
+        -42.5,25,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 25</name>
+    <Point>
+      <coordinates>
+        2.5,25,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 25</name>
+    <Point>
+      <coordinates>
+        47.5,25,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 25</name>
+    <Point>
+      <coordinates>
+        92.5,25,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 25</name>
+    <Point>
+      <coordinates>
+        137.5,25,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 25</name>
+    <Point>
+      <coordinates>
+        182.5,25,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 30</name>
+    <Point>
+      <coordinates>
+        -177.5,30,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 30</name>
+    <Point>
+      <coordinates>
+        -132.5,30,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 30</name>
+    <Point>
+      <coordinates>
+        -87.5,30,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 30</name>
+    <Point>
+      <coordinates>
+        -42.5,30,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 30</name>
+    <Point>
+      <coordinates>
+        2.5,30,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 30</name>
+    <Point>
+      <coordinates>
+        47.5,30,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 30</name>
+    <Point>
+      <coordinates>
+        92.5,30,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 30</name>
+    <Point>
+      <coordinates>
+        137.5,30,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 30</name>
+    <Point>
+      <coordinates>
+        182.5,30,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 35</name>
+    <Point>
+      <coordinates>
+        -177.5,35,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 35</name>
+    <Point>
+      <coordinates>
+        -132.5,35,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 35</name>
+    <Point>
+      <coordinates>
+        -87.5,35,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 35</name>
+    <Point>
+      <coordinates>
+        -42.5,35,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 35</name>
+    <Point>
+      <coordinates>
+        2.5,35,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 35</name>
+    <Point>
+      <coordinates>
+        47.5,35,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 35</name>
+    <Point>
+      <coordinates>
+        92.5,35,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 35</name>
+    <Point>
+      <coordinates>
+        137.5,35,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 35</name>
+    <Point>
+      <coordinates>
+        182.5,35,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 40</name>
+    <Point>
+      <coordinates>
+        -177.5,40,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 40</name>
+    <Point>
+      <coordinates>
+        -132.5,40,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 40</name>
+    <Point>
+      <coordinates>
+        -87.5,40,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 40</name>
+    <Point>
+      <coordinates>
+        -42.5,40,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 40</name>
+    <Point>
+      <coordinates>
+        2.5,40,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 40</name>
+    <Point>
+      <coordinates>
+        47.5,40,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 40</name>
+    <Point>
+      <coordinates>
+        92.5,40,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 40</name>
+    <Point>
+      <coordinates>
+        137.5,40,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 40</name>
+    <Point>
+      <coordinates>
+        182.5,40,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 45</name>
+    <Point>
+      <coordinates>
+        -177.5,45,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 45</name>
+    <Point>
+      <coordinates>
+        -132.5,45,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 45</name>
+    <Point>
+      <coordinates>
+        -87.5,45,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 45</name>
+    <Point>
+      <coordinates>
+        -42.5,45,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 45</name>
+    <Point>
+      <coordinates>
+        2.5,45,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 45</name>
+    <Point>
+      <coordinates>
+        47.5,45,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 45</name>
+    <Point>
+      <coordinates>
+        92.5,45,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 45</name>
+    <Point>
+      <coordinates>
+        137.5,45,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 45</name>
+    <Point>
+      <coordinates>
+        182.5,45,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 50</name>
+    <Point>
+      <coordinates>
+        -177.5,50,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 50</name>
+    <Point>
+      <coordinates>
+        -132.5,50,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 50</name>
+    <Point>
+      <coordinates>
+        -87.5,50,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 50</name>
+    <Point>
+      <coordinates>
+        -42.5,50,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 50</name>
+    <Point>
+      <coordinates>
+        2.5,50,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 50</name>
+    <Point>
+      <coordinates>
+        47.5,50,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 50</name>
+    <Point>
+      <coordinates>
+        92.5,50,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 50</name>
+    <Point>
+      <coordinates>
+        137.5,50,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 50</name>
+    <Point>
+      <coordinates>
+        182.5,50,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 55</name>
+    <Point>
+      <coordinates>
+        -177.5,55,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 55</name>
+    <Point>
+      <coordinates>
+        -132.5,55,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 55</name>
+    <Point>
+      <coordinates>
+        -87.5,55,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 55</name>
+    <Point>
+      <coordinates>
+        -42.5,55,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 55</name>
+    <Point>
+      <coordinates>
+        2.5,55,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 55</name>
+    <Point>
+      <coordinates>
+        47.5,55,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 55</name>
+    <Point>
+      <coordinates>
+        92.5,55,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 55</name>
+    <Point>
+      <coordinates>
+        137.5,55,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 55</name>
+    <Point>
+      <coordinates>
+        182.5,55,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 60</name>
+    <Point>
+      <coordinates>
+        -177.5,60,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 60</name>
+    <Point>
+      <coordinates>
+        -132.5,60,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 60</name>
+    <Point>
+      <coordinates>
+        -87.5,60,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 60</name>
+    <Point>
+      <coordinates>
+        -42.5,60,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 60</name>
+    <Point>
+      <coordinates>
+        2.5,60,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 60</name>
+    <Point>
+      <coordinates>
+        47.5,60,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 60</name>
+    <Point>
+      <coordinates>
+        92.5,60,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 60</name>
+    <Point>
+      <coordinates>
+        137.5,60,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 60</name>
+    <Point>
+      <coordinates>
+        182.5,60,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 65</name>
+    <Point>
+      <coordinates>
+        -177.5,65,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 65</name>
+    <Point>
+      <coordinates>
+        -132.5,65,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 65</name>
+    <Point>
+      <coordinates>
+        -87.5,65,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 65</name>
+    <Point>
+      <coordinates>
+        -42.5,65,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 65</name>
+    <Point>
+      <coordinates>
+        2.5,65,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 65</name>
+    <Point>
+      <coordinates>
+        47.5,65,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 65</name>
+    <Point>
+      <coordinates>
+        92.5,65,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 65</name>
+    <Point>
+      <coordinates>
+        137.5,65,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 65</name>
+    <Point>
+      <coordinates>
+        182.5,65,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 70</name>
+    <Point>
+      <coordinates>
+        -177.5,70,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 70</name>
+    <Point>
+      <coordinates>
+        -132.5,70,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 70</name>
+    <Point>
+      <coordinates>
+        -87.5,70,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 70</name>
+    <Point>
+      <coordinates>
+        -42.5,70,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 70</name>
+    <Point>
+      <coordinates>
+        2.5,70,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 70</name>
+    <Point>
+      <coordinates>
+        47.5,70,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 70</name>
+    <Point>
+      <coordinates>
+        92.5,70,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 70</name>
+    <Point>
+      <coordinates>
+        137.5,70,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 70</name>
+    <Point>
+      <coordinates>
+        182.5,70,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 75</name>
+    <Point>
+      <coordinates>
+        -177.5,75,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 75</name>
+    <Point>
+      <coordinates>
+        -132.5,75,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 75</name>
+    <Point>
+      <coordinates>
+        -87.5,75,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 75</name>
+    <Point>
+      <coordinates>
+        -42.5,75,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 75</name>
+    <Point>
+      <coordinates>
+        2.5,75,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 75</name>
+    <Point>
+      <coordinates>
+        47.5,75,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 75</name>
+    <Point>
+      <coordinates>
+        92.5,75,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 75</name>
+    <Point>
+      <coordinates>
+        137.5,75,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 75</name>
+    <Point>
+      <coordinates>
+        182.5,75,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 80</name>
+    <Point>
+      <coordinates>
+        -177.5,80,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 80</name>
+    <Point>
+      <coordinates>
+        -132.5,80,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 80</name>
+    <Point>
+      <coordinates>
+        -87.5,80,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 80</name>
+    <Point>
+      <coordinates>
+        -42.5,80,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 80</name>
+    <Point>
+      <coordinates>
+        2.5,80,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 80</name>
+    <Point>
+      <coordinates>
+        47.5,80,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 80</name>
+    <Point>
+      <coordinates>
+        92.5,80,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 80</name>
+    <Point>
+      <coordinates>
+        137.5,80,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lat 80</name>
+    <Point>
+      <coordinates>
+        182.5,80,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -180</name>
+    <Point>
+      <coordinates>
+        -180,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -180</name>
+    <Point>
+      <coordinates>
+        -180,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -180</name>
+    <Point>
+      <coordinates>
+        -180,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -180</name>
+    <Point>
+      <coordinates>
+        -180,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -175</name>
+    <Point>
+      <coordinates>
+        -175,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -175</name>
+    <Point>
+      <coordinates>
+        -175,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -175</name>
+    <Point>
+      <coordinates>
+        -175,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -175</name>
+    <Point>
+      <coordinates>
+        -175,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -170</name>
+    <Point>
+      <coordinates>
+        -170,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -170</name>
+    <Point>
+      <coordinates>
+        -170,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -170</name>
+    <Point>
+      <coordinates>
+        -170,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -170</name>
+    <Point>
+      <coordinates>
+        -170,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -165</name>
+    <Point>
+      <coordinates>
+        -165,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -165</name>
+    <Point>
+      <coordinates>
+        -165,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -165</name>
+    <Point>
+      <coordinates>
+        -165,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -165</name>
+    <Point>
+      <coordinates>
+        -165,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -160</name>
+    <Point>
+      <coordinates>
+        -160,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -160</name>
+    <Point>
+      <coordinates>
+        -160,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -160</name>
+    <Point>
+      <coordinates>
+        -160,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -160</name>
+    <Point>
+      <coordinates>
+        -160,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -155</name>
+    <Point>
+      <coordinates>
+        -155,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -155</name>
+    <Point>
+      <coordinates>
+        -155,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -155</name>
+    <Point>
+      <coordinates>
+        -155,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -155</name>
+    <Point>
+      <coordinates>
+        -155,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -150</name>
+    <Point>
+      <coordinates>
+        -150,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -150</name>
+    <Point>
+      <coordinates>
+        -150,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -150</name>
+    <Point>
+      <coordinates>
+        -150,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -150</name>
+    <Point>
+      <coordinates>
+        -150,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -145</name>
+    <Point>
+      <coordinates>
+        -145,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -145</name>
+    <Point>
+      <coordinates>
+        -145,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -145</name>
+    <Point>
+      <coordinates>
+        -145,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -145</name>
+    <Point>
+      <coordinates>
+        -145,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -140</name>
+    <Point>
+      <coordinates>
+        -140,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -140</name>
+    <Point>
+      <coordinates>
+        -140,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -140</name>
+    <Point>
+      <coordinates>
+        -140,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -140</name>
+    <Point>
+      <coordinates>
+        -140,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -135</name>
+    <Point>
+      <coordinates>
+        -135,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -135</name>
+    <Point>
+      <coordinates>
+        -135,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -135</name>
+    <Point>
+      <coordinates>
+        -135,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -135</name>
+    <Point>
+      <coordinates>
+        -135,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -130</name>
+    <Point>
+      <coordinates>
+        -130,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -130</name>
+    <Point>
+      <coordinates>
+        -130,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -130</name>
+    <Point>
+      <coordinates>
+        -130,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -130</name>
+    <Point>
+      <coordinates>
+        -130,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -125</name>
+    <Point>
+      <coordinates>
+        -125,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -125</name>
+    <Point>
+      <coordinates>
+        -125,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -125</name>
+    <Point>
+      <coordinates>
+        -125,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -125</name>
+    <Point>
+      <coordinates>
+        -125,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -120</name>
+    <Point>
+      <coordinates>
+        -120,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -120</name>
+    <Point>
+      <coordinates>
+        -120,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -120</name>
+    <Point>
+      <coordinates>
+        -120,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -120</name>
+    <Point>
+      <coordinates>
+        -120,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -115</name>
+    <Point>
+      <coordinates>
+        -115,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -115</name>
+    <Point>
+      <coordinates>
+        -115,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -115</name>
+    <Point>
+      <coordinates>
+        -115,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -115</name>
+    <Point>
+      <coordinates>
+        -115,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -110</name>
+    <Point>
+      <coordinates>
+        -110,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -110</name>
+    <Point>
+      <coordinates>
+        -110,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -110</name>
+    <Point>
+      <coordinates>
+        -110,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -110</name>
+    <Point>
+      <coordinates>
+        -110,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -105</name>
+    <Point>
+      <coordinates>
+        -105,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -105</name>
+    <Point>
+      <coordinates>
+        -105,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -105</name>
+    <Point>
+      <coordinates>
+        -105,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -105</name>
+    <Point>
+      <coordinates>
+        -105,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -100</name>
+    <Point>
+      <coordinates>
+        -100,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -100</name>
+    <Point>
+      <coordinates>
+        -100,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -100</name>
+    <Point>
+      <coordinates>
+        -100,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -100</name>
+    <Point>
+      <coordinates>
+        -100,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -95</name>
+    <Point>
+      <coordinates>
+        -95,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -95</name>
+    <Point>
+      <coordinates>
+        -95,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -95</name>
+    <Point>
+      <coordinates>
+        -95,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -95</name>
+    <Point>
+      <coordinates>
+        -95,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -90</name>
+    <Point>
+      <coordinates>
+        -90,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -90</name>
+    <Point>
+      <coordinates>
+        -90,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -90</name>
+    <Point>
+      <coordinates>
+        -90,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -90</name>
+    <Point>
+      <coordinates>
+        -90,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -85</name>
+    <Point>
+      <coordinates>
+        -85,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -85</name>
+    <Point>
+      <coordinates>
+        -85,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -85</name>
+    <Point>
+      <coordinates>
+        -85,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -85</name>
+    <Point>
+      <coordinates>
+        -85,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -80</name>
+    <Point>
+      <coordinates>
+        -80,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -80</name>
+    <Point>
+      <coordinates>
+        -80,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -80</name>
+    <Point>
+      <coordinates>
+        -80,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -80</name>
+    <Point>
+      <coordinates>
+        -80,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -75</name>
+    <Point>
+      <coordinates>
+        -75,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -75</name>
+    <Point>
+      <coordinates>
+        -75,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -75</name>
+    <Point>
+      <coordinates>
+        -75,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -75</name>
+    <Point>
+      <coordinates>
+        -75,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -70</name>
+    <Point>
+      <coordinates>
+        -70,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -70</name>
+    <Point>
+      <coordinates>
+        -70,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -70</name>
+    <Point>
+      <coordinates>
+        -70,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -70</name>
+    <Point>
+      <coordinates>
+        -70,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -65</name>
+    <Point>
+      <coordinates>
+        -65,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -65</name>
+    <Point>
+      <coordinates>
+        -65,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -65</name>
+    <Point>
+      <coordinates>
+        -65,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -65</name>
+    <Point>
+      <coordinates>
+        -65,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -60</name>
+    <Point>
+      <coordinates>
+        -60,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -60</name>
+    <Point>
+      <coordinates>
+        -60,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -60</name>
+    <Point>
+      <coordinates>
+        -60,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -60</name>
+    <Point>
+      <coordinates>
+        -60,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -55</name>
+    <Point>
+      <coordinates>
+        -55,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -55</name>
+    <Point>
+      <coordinates>
+        -55,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -55</name>
+    <Point>
+      <coordinates>
+        -55,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -55</name>
+    <Point>
+      <coordinates>
+        -55,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -50</name>
+    <Point>
+      <coordinates>
+        -50,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -50</name>
+    <Point>
+      <coordinates>
+        -50,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -50</name>
+    <Point>
+      <coordinates>
+        -50,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -50</name>
+    <Point>
+      <coordinates>
+        -50,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -45</name>
+    <Point>
+      <coordinates>
+        -45,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -45</name>
+    <Point>
+      <coordinates>
+        -45,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -45</name>
+    <Point>
+      <coordinates>
+        -45,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -45</name>
+    <Point>
+      <coordinates>
+        -45,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -40</name>
+    <Point>
+      <coordinates>
+        -40,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -40</name>
+    <Point>
+      <coordinates>
+        -40,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -40</name>
+    <Point>
+      <coordinates>
+        -40,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -40</name>
+    <Point>
+      <coordinates>
+        -40,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -35</name>
+    <Point>
+      <coordinates>
+        -35,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -35</name>
+    <Point>
+      <coordinates>
+        -35,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -35</name>
+    <Point>
+      <coordinates>
+        -35,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -35</name>
+    <Point>
+      <coordinates>
+        -35,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -30</name>
+    <Point>
+      <coordinates>
+        -30,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -30</name>
+    <Point>
+      <coordinates>
+        -30,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -30</name>
+    <Point>
+      <coordinates>
+        -30,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -30</name>
+    <Point>
+      <coordinates>
+        -30,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -25</name>
+    <Point>
+      <coordinates>
+        -25,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -25</name>
+    <Point>
+      <coordinates>
+        -25,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -25</name>
+    <Point>
+      <coordinates>
+        -25,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -25</name>
+    <Point>
+      <coordinates>
+        -25,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -20</name>
+    <Point>
+      <coordinates>
+        -20,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -20</name>
+    <Point>
+      <coordinates>
+        -20,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -20</name>
+    <Point>
+      <coordinates>
+        -20,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -20</name>
+    <Point>
+      <coordinates>
+        -20,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -15</name>
+    <Point>
+      <coordinates>
+        -15,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -15</name>
+    <Point>
+      <coordinates>
+        -15,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -15</name>
+    <Point>
+      <coordinates>
+        -15,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -15</name>
+    <Point>
+      <coordinates>
+        -15,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -10</name>
+    <Point>
+      <coordinates>
+        -10,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -10</name>
+    <Point>
+      <coordinates>
+        -10,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -10</name>
+    <Point>
+      <coordinates>
+        -10,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -10</name>
+    <Point>
+      <coordinates>
+        -10,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -5</name>
+    <Point>
+      <coordinates>
+        -5,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -5</name>
+    <Point>
+      <coordinates>
+        -5,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -5</name>
+    <Point>
+      <coordinates>
+        -5,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon -5</name>
+    <Point>
+      <coordinates>
+        -5,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 0</name>
+    <Point>
+      <coordinates>
+        0,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 0</name>
+    <Point>
+      <coordinates>
+        0,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 0</name>
+    <Point>
+      <coordinates>
+        0,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 0</name>
+    <Point>
+      <coordinates>
+        0,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 5</name>
+    <Point>
+      <coordinates>
+        5,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 5</name>
+    <Point>
+      <coordinates>
+        5,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 5</name>
+    <Point>
+      <coordinates>
+        5,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 5</name>
+    <Point>
+      <coordinates>
+        5,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 10</name>
+    <Point>
+      <coordinates>
+        10,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 10</name>
+    <Point>
+      <coordinates>
+        10,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 10</name>
+    <Point>
+      <coordinates>
+        10,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 10</name>
+    <Point>
+      <coordinates>
+        10,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 15</name>
+    <Point>
+      <coordinates>
+        15,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 15</name>
+    <Point>
+      <coordinates>
+        15,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 15</name>
+    <Point>
+      <coordinates>
+        15,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 15</name>
+    <Point>
+      <coordinates>
+        15,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 20</name>
+    <Point>
+      <coordinates>
+        20,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 20</name>
+    <Point>
+      <coordinates>
+        20,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 20</name>
+    <Point>
+      <coordinates>
+        20,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 20</name>
+    <Point>
+      <coordinates>
+        20,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 25</name>
+    <Point>
+      <coordinates>
+        25,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 25</name>
+    <Point>
+      <coordinates>
+        25,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 25</name>
+    <Point>
+      <coordinates>
+        25,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 25</name>
+    <Point>
+      <coordinates>
+        25,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 30</name>
+    <Point>
+      <coordinates>
+        30,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 30</name>
+    <Point>
+      <coordinates>
+        30,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 30</name>
+    <Point>
+      <coordinates>
+        30,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 30</name>
+    <Point>
+      <coordinates>
+        30,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 35</name>
+    <Point>
+      <coordinates>
+        35,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 35</name>
+    <Point>
+      <coordinates>
+        35,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 35</name>
+    <Point>
+      <coordinates>
+        35,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 35</name>
+    <Point>
+      <coordinates>
+        35,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 40</name>
+    <Point>
+      <coordinates>
+        40,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 40</name>
+    <Point>
+      <coordinates>
+        40,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 40</name>
+    <Point>
+      <coordinates>
+        40,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 40</name>
+    <Point>
+      <coordinates>
+        40,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 45</name>
+    <Point>
+      <coordinates>
+        45,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 45</name>
+    <Point>
+      <coordinates>
+        45,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 45</name>
+    <Point>
+      <coordinates>
+        45,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 45</name>
+    <Point>
+      <coordinates>
+        45,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 50</name>
+    <Point>
+      <coordinates>
+        50,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 50</name>
+    <Point>
+      <coordinates>
+        50,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 50</name>
+    <Point>
+      <coordinates>
+        50,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 50</name>
+    <Point>
+      <coordinates>
+        50,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 55</name>
+    <Point>
+      <coordinates>
+        55,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 55</name>
+    <Point>
+      <coordinates>
+        55,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 55</name>
+    <Point>
+      <coordinates>
+        55,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 55</name>
+    <Point>
+      <coordinates>
+        55,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 60</name>
+    <Point>
+      <coordinates>
+        60,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 60</name>
+    <Point>
+      <coordinates>
+        60,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 60</name>
+    <Point>
+      <coordinates>
+        60,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 60</name>
+    <Point>
+      <coordinates>
+        60,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 65</name>
+    <Point>
+      <coordinates>
+        65,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 65</name>
+    <Point>
+      <coordinates>
+        65,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 65</name>
+    <Point>
+      <coordinates>
+        65,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 65</name>
+    <Point>
+      <coordinates>
+        65,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 70</name>
+    <Point>
+      <coordinates>
+        70,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 70</name>
+    <Point>
+      <coordinates>
+        70,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 70</name>
+    <Point>
+      <coordinates>
+        70,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 70</name>
+    <Point>
+      <coordinates>
+        70,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 75</name>
+    <Point>
+      <coordinates>
+        75,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 75</name>
+    <Point>
+      <coordinates>
+        75,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 75</name>
+    <Point>
+      <coordinates>
+        75,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 75</name>
+    <Point>
+      <coordinates>
+        75,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 80</name>
+    <Point>
+      <coordinates>
+        80,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 80</name>
+    <Point>
+      <coordinates>
+        80,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 80</name>
+    <Point>
+      <coordinates>
+        80,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 80</name>
+    <Point>
+      <coordinates>
+        80,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 85</name>
+    <Point>
+      <coordinates>
+        85,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 85</name>
+    <Point>
+      <coordinates>
+        85,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 85</name>
+    <Point>
+      <coordinates>
+        85,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 85</name>
+    <Point>
+      <coordinates>
+        85,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 90</name>
+    <Point>
+      <coordinates>
+        90,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 90</name>
+    <Point>
+      <coordinates>
+        90,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 90</name>
+    <Point>
+      <coordinates>
+        90,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 90</name>
+    <Point>
+      <coordinates>
+        90,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 95</name>
+    <Point>
+      <coordinates>
+        95,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 95</name>
+    <Point>
+      <coordinates>
+        95,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 95</name>
+    <Point>
+      <coordinates>
+        95,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 95</name>
+    <Point>
+      <coordinates>
+        95,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 100</name>
+    <Point>
+      <coordinates>
+        100,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 100</name>
+    <Point>
+      <coordinates>
+        100,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 100</name>
+    <Point>
+      <coordinates>
+        100,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 100</name>
+    <Point>
+      <coordinates>
+        100,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 105</name>
+    <Point>
+      <coordinates>
+        105,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 105</name>
+    <Point>
+      <coordinates>
+        105,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 105</name>
+    <Point>
+      <coordinates>
+        105,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 105</name>
+    <Point>
+      <coordinates>
+        105,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 110</name>
+    <Point>
+      <coordinates>
+        110,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 110</name>
+    <Point>
+      <coordinates>
+        110,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 110</name>
+    <Point>
+      <coordinates>
+        110,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 110</name>
+    <Point>
+      <coordinates>
+        110,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 115</name>
+    <Point>
+      <coordinates>
+        115,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 115</name>
+    <Point>
+      <coordinates>
+        115,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 115</name>
+    <Point>
+      <coordinates>
+        115,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 115</name>
+    <Point>
+      <coordinates>
+        115,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 120</name>
+    <Point>
+      <coordinates>
+        120,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 120</name>
+    <Point>
+      <coordinates>
+        120,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 120</name>
+    <Point>
+      <coordinates>
+        120,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 120</name>
+    <Point>
+      <coordinates>
+        120,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 125</name>
+    <Point>
+      <coordinates>
+        125,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 125</name>
+    <Point>
+      <coordinates>
+        125,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 125</name>
+    <Point>
+      <coordinates>
+        125,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 125</name>
+    <Point>
+      <coordinates>
+        125,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 130</name>
+    <Point>
+      <coordinates>
+        130,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 130</name>
+    <Point>
+      <coordinates>
+        130,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 130</name>
+    <Point>
+      <coordinates>
+        130,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 130</name>
+    <Point>
+      <coordinates>
+        130,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 135</name>
+    <Point>
+      <coordinates>
+        135,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 135</name>
+    <Point>
+      <coordinates>
+        135,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 135</name>
+    <Point>
+      <coordinates>
+        135,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 135</name>
+    <Point>
+      <coordinates>
+        135,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 140</name>
+    <Point>
+      <coordinates>
+        140,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 140</name>
+    <Point>
+      <coordinates>
+        140,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 140</name>
+    <Point>
+      <coordinates>
+        140,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 140</name>
+    <Point>
+      <coordinates>
+        140,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 145</name>
+    <Point>
+      <coordinates>
+        145,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 145</name>
+    <Point>
+      <coordinates>
+        145,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 145</name>
+    <Point>
+      <coordinates>
+        145,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 145</name>
+    <Point>
+      <coordinates>
+        145,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 150</name>
+    <Point>
+      <coordinates>
+        150,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 150</name>
+    <Point>
+      <coordinates>
+        150,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 150</name>
+    <Point>
+      <coordinates>
+        150,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 150</name>
+    <Point>
+      <coordinates>
+        150,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 155</name>
+    <Point>
+      <coordinates>
+        155,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 155</name>
+    <Point>
+      <coordinates>
+        155,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 155</name>
+    <Point>
+      <coordinates>
+        155,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 155</name>
+    <Point>
+      <coordinates>
+        155,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 160</name>
+    <Point>
+      <coordinates>
+        160,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 160</name>
+    <Point>
+      <coordinates>
+        160,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 160</name>
+    <Point>
+      <coordinates>
+        160,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 160</name>
+    <Point>
+      <coordinates>
+        160,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 165</name>
+    <Point>
+      <coordinates>
+        165,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 165</name>
+    <Point>
+      <coordinates>
+        165,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 165</name>
+    <Point>
+      <coordinates>
+        165,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 165</name>
+    <Point>
+      <coordinates>
+        165,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 170</name>
+    <Point>
+      <coordinates>
+        170,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 170</name>
+    <Point>
+      <coordinates>
+        170,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 170</name>
+    <Point>
+      <coordinates>
+        170,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 170</name>
+    <Point>
+      <coordinates>
+        170,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 175</name>
+    <Point>
+      <coordinates>
+        175,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 175</name>
+    <Point>
+      <coordinates>
+        175,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 175</name>
+    <Point>
+      <coordinates>
+        175,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 175</name>
+    <Point>
+      <coordinates>
+        175,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 180</name>
+    <Point>
+      <coordinates>
+        180,-77.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 180</name>
+    <Point>
+      <coordinates>
+        180,-37.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 180</name>
+    <Point>
+      <coordinates>
+        180,2.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel1</styleUrl>
+   <name>Lon 180</name>
+    <Point>
+      <coordinates>
+        180,42.5,0
+      </coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>

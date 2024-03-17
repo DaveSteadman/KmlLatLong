@@ -10,116 +10,130 @@
 <Style id="LabelStyleLevel1"><LabelStyle><color>ff00ff00</color><scale>1.0</scale></LabelStyle></Style>
 <Style id="LabelStyleLevel2"><LabelStyle><color>ffffdddd</color><scale>1.0</scale></LabelStyle></Style>
   <Placemark>
-    <styleUrl>#Level0</styleUrl>
-    <LineString>
+    <styleUrl>LabelStyleLevel0</styleUrl>
+   <name>Lat -80</name>
+    <Point>
       <coordinates>
-        -180,-80.000,0 180,-80.000,0
+        -157.5,-80,0
       </coordinates>
-    </LineString>
+    </Point>
   </Placemark>
   <Placemark>
-    <styleUrl>#Level0</styleUrl>
-    <LineString>
+    <styleUrl>LabelStyleLevel0</styleUrl>
+   <name>Lat -40</name>
+    <Point>
       <coordinates>
-        -180,-40.000,0 180,-40.000,0
+        -157.5,-40,0
       </coordinates>
-    </LineString>
+    </Point>
   </Placemark>
   <Placemark>
-    <styleUrl>#Level0</styleUrl>
-    <LineString>
+    <styleUrl>LabelStyleLevel0</styleUrl>
+   <name>Lat 0</name>
+    <Point>
       <coordinates>
-        -180,0.000,0 180,0.000,0
+        -157.5,0,0
       </coordinates>
-    </LineString>
+    </Point>
   </Placemark>
   <Placemark>
-    <styleUrl>#Level0</styleUrl>
-    <LineString>
+    <styleUrl>LabelStyleLevel0</styleUrl>
+   <name>Lat 40</name>
+    <Point>
       <coordinates>
-        -180,40.000,0 180,40.000,0
+        -157.5,40,0
       </coordinates>
-    </LineString>
+    </Point>
   </Placemark>
   <Placemark>
-    <styleUrl>#Level0</styleUrl>
-    <LineString>
+    <styleUrl>LabelStyleLevel0</styleUrl>
+   <name>Lat 80</name>
+    <Point>
       <coordinates>
-        -180,80.000,0 180,80.000,0
+        -157.5,80,0
       </coordinates>
-    </LineString>
+    </Point>
   </Placemark>
   <Placemark>
-    <styleUrl>#Level0</styleUrl>
-    <LineString>
+    <styleUrl>LabelStyleLevel0</styleUrl>
+   <name>Lon -180</name>
+    <Point>
       <coordinates>
-        -180.000,-80,0 -180.000,80,0
+        -180,-60,0
       </coordinates>
-    </LineString>
+    </Point>
   </Placemark>
   <Placemark>
-    <styleUrl>#Level0</styleUrl>
-    <LineString>
+    <styleUrl>LabelStyleLevel0</styleUrl>
+   <name>Lon -135</name>
+    <Point>
       <coordinates>
-        -135.000,-80,0 -135.000,80,0
+        -135,-60,0
       </coordinates>
-    </LineString>
+    </Point>
   </Placemark>
   <Placemark>
-    <styleUrl>#Level0</styleUrl>
-    <LineString>
+    <styleUrl>LabelStyleLevel0</styleUrl>
+   <name>Lon -90</name>
+    <Point>
       <coordinates>
-        -90.000,-80,0 -90.000,80,0
+        -90,-60,0
       </coordinates>
-    </LineString>
+    </Point>
   </Placemark>
   <Placemark>
-    <styleUrl>#Level0</styleUrl>
-    <LineString>
+    <styleUrl>LabelStyleLevel0</styleUrl>
+   <name>Lon -45</name>
+    <Point>
       <coordinates>
-        -45.000,-80,0 -45.000,80,0
+        -45,-60,0
       </coordinates>
-    </LineString>
+    </Point>
   </Placemark>
   <Placemark>
-    <styleUrl>#Level0</styleUrl>
-    <LineString>
+    <styleUrl>LabelStyleLevel0</styleUrl>
+   <name>Lon 0</name>
+    <Point>
       <coordinates>
-        0.000,-80,0 0.000,80,0
+        0,-60,0
       </coordinates>
-    </LineString>
+    </Point>
   </Placemark>
   <Placemark>
-    <styleUrl>#Level0</styleUrl>
-    <LineString>
+    <styleUrl>LabelStyleLevel0</styleUrl>
+   <name>Lon 45</name>
+    <Point>
       <coordinates>
-        45.000,-80,0 45.000,80,0
+        45,-60,0
       </coordinates>
-    </LineString>
+    </Point>
   </Placemark>
   <Placemark>
-    <styleUrl>#Level0</styleUrl>
-    <LineString>
+    <styleUrl>LabelStyleLevel0</styleUrl>
+   <name>Lon 90</name>
+    <Point>
       <coordinates>
-        90.000,-80,0 90.000,80,0
+        90,-60,0
       </coordinates>
-    </LineString>
+    </Point>
   </Placemark>
   <Placemark>
-    <styleUrl>#Level0</styleUrl>
-    <LineString>
+    <styleUrl>LabelStyleLevel0</styleUrl>
+   <name>Lon 135</name>
+    <Point>
       <coordinates>
-        135.000,-80,0 135.000,80,0
+        135,-60,0
       </coordinates>
-    </LineString>
+    </Point>
   </Placemark>
   <Placemark>
-    <styleUrl>#Level0</styleUrl>
-    <LineString>
+    <styleUrl>LabelStyleLevel0</styleUrl>
+   <name>Lon 180</name>
+    <Point>
       <coordinates>
-        180.000,-80,0 180.000,80,0
+        180,-60,0
       </coordinates>
-    </LineString>
+    </Point>
   </Placemark>
 </Document>
 </kml>

@@ -13,7 +13,7 @@
     <styleUrl>#Level0</styleUrl>
     <LineString>
       <coordinates>
-        -180,-80.000,0 180,-80.000,0
+        -180,-90.000,0 180,-90.000,0
       </coordinates>
     </LineString>
   </Placemark>
@@ -21,7 +21,15 @@
     <styleUrl>#Level0</styleUrl>
     <LineString>
       <coordinates>
-        -180,-40.000,0 180,-40.000,0
+        -180,-60.000,0 180,-60.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level0</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,-30.000,0 180,-30.000,0
       </coordinates>
     </LineString>
   </Placemark>
@@ -37,7 +45,7 @@
     <styleUrl>#Level0</styleUrl>
     <LineString>
       <coordinates>
-        -180,40.000,0 180,40.000,0
+        -180,30.000,0 180,30.000,0
       </coordinates>
     </LineString>
   </Placemark>
@@ -45,7 +53,15 @@
     <styleUrl>#Level0</styleUrl>
     <LineString>
       <coordinates>
-        -180,80.000,0 180,80.000,0
+        -180,60.000,0 180,60.000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level0</styleUrl>
+    <LineString>
+      <coordinates>
+        -180,90.000,0 180,90.000,0
       </coordinates>
     </LineString>
   </Placemark>
@@ -61,7 +77,15 @@
     <styleUrl>#Level0</styleUrl>
     <LineString>
       <coordinates>
-        -135.000,-80,0 -135.000,80,0
+        -150.000,-80,0 -150.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level0</styleUrl>
+    <LineString>
+      <coordinates>
+        -120.000,-80,0 -120.000,80,0
       </coordinates>
     </LineString>
   </Placemark>
@@ -77,7 +101,15 @@
     <styleUrl>#Level0</styleUrl>
     <LineString>
       <coordinates>
-        -45.000,-80,0 -45.000,80,0
+        -60.000,-80,0 -60.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level0</styleUrl>
+    <LineString>
+      <coordinates>
+        -30.000,-80,0 -30.000,80,0
       </coordinates>
     </LineString>
   </Placemark>
@@ -93,7 +125,15 @@
     <styleUrl>#Level0</styleUrl>
     <LineString>
       <coordinates>
-        45.000,-80,0 45.000,80,0
+        30.000,-80,0 30.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level0</styleUrl>
+    <LineString>
+      <coordinates>
+        60.000,-80,0 60.000,80,0
       </coordinates>
     </LineString>
   </Placemark>
@@ -109,7 +149,15 @@
     <styleUrl>#Level0</styleUrl>
     <LineString>
       <coordinates>
-        135.000,-80,0 135.000,80,0
+        120.000,-80,0 120.000,80,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#Level0</styleUrl>
+    <LineString>
+      <coordinates>
+        150.000,-80,0 150.000,80,0
       </coordinates>
     </LineString>
   </Placemark>

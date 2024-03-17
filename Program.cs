@@ -5,6 +5,27 @@ using System.IO;
 class KmlGenerator
 {
 
+    public void GenerateKmlFile_30Deg()
+    {
+        string filePath = "KmlLatLong_30Deg.kml";
+        var kmlContent = new StringBuilder();
+
+        WriteKmlHeader(kmlContent);
+
+        // Generate Latitude Lines
+        string styleUrl = "Level0";
+        for (int lat = -90; lat <= 90; lat+=30)
+            AddLatLine(kmlContent, lat, styleUrl);
+
+        // Generate Longitude Lines
+        for (int lon = -180; lon <= 180; lon+=30)
+            AddLonLine(kmlContent, lon, styleUrl);
+
+        WriteKmlFooter(kmlContent);
+
+        File.WriteAllText(filePath, kmlContent.ToString());
+    }
+
     public void GenerateKmlFile_45Deg()
     {
         string filePath = "KmlLatLong_45Deg.kml";
@@ -90,6 +111,32 @@ class KmlGenerator
     }
 
     // --------------------------------------------------------------------------------------------
+
+    public void GenerateKmlFile_30DegLabels()
+    {
+        string filePath = "KmlLatLong_30Deg_Labels.kml";
+        var kmlContent = new StringBuilder();
+
+        WriteKmlHeader(kmlContent);
+
+        // Generate Latitude Lines
+        string styleUrl = "LabelStyleLevel0";
+
+        for (int lat = -90; lat <=90; lat+=30)
+        {
+            float adjLon = -180f + 15f;
+            AddLabel(kmlContent, lat, adjLon, styleUrl, $"Lat {lat}");
+        }
+
+        for (int lon = -180; lon<=180; lon+=30)
+        {
+            float adjLat = -60f;
+            AddLabel(kmlContent, adjLat, lon, styleUrl, $"Lon {lon:F0}");
+        }
+
+        WriteKmlFooter(kmlContent);
+        File.WriteAllText(filePath, kmlContent.ToString());
+    }
 
     public void GenerateKmlFile_45DegLabels()
     {
@@ -299,7 +346,11 @@ class Program
         generator.GenerateKmlFile_1DegLabels();
 
         generator.GenerateKmlFile_0p2Deg();
-
         generator.GenerateKmlFile_Lvl0TileCodes();
+
+        // V2
+        generator.GenerateKmlFile_30Deg();
+        generator.GenerateKmlFile_30DegLabels();
+
     }
 }

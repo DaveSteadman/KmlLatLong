@@ -2,36 +2,13 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
 <name>Latitude and Longitude Grid</name>
-  <Style id="Level0">
-    <LineStyle>
-      <color>ff0000ff</color>
-      <width>3</width>
-    </LineStyle>
-  </Style>
-  <Style id="Level1">
-    <LineStyle>
-      <color>ff00ff00</color>
-      <width>2</width>
-    </LineStyle>
-  </Style>
-  <Style id="Level2">
-    <LineStyle>
-      <color>ffff0000</color>
-      <width>1</width>
-    </LineStyle>
-  </Style>
-  <Style id="Level3">
-    <LineStyle>
-      <color>777777ff</color>
-      <width>1</width>
-    </LineStyle>
-  </Style>
-  <Style id="textLabelStyle">
-    <LabelStyle>
-      <color>ff0000ff</color>
-      <scale>1.5</scale>
-    </LabelStyle>
-  </Style>
+<Style id="Level0"><LineStyle><color>ff0000ff</color><width>3</width></LineStyle></Style>
+<Style id="Level1"><LineStyle><color>ff00ff00</color><width>2</width></LineStyle></Style>
+<Style id="Level2"><LineStyle><color>ffff0000</color><width>1</width></LineStyle></Style>
+<Style id="Level3"><LineStyle><color>66666666</color><width>1</width></LineStyle></Style>
+<Style id="LabelStyleLevel0"><LabelStyle><color>ff0000ff</color><scale>1.0</scale></LabelStyle></Style>
+<Style id="LabelStyleLevel1"><LabelStyle><color>ff00ff00</color><scale>1.0</scale></LabelStyle></Style>
+<Style id="LabelStyleLevel2"><LabelStyle><color>ffffdddd</color><scale>1.0</scale></LabelStyle></Style>
   <Placemark>
     <styleUrl>#Level1</styleUrl>
     <LineString>

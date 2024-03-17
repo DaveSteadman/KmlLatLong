@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Latitude and Longitude Grid</name>
+<Style id="Level0"><LineStyle><color>ff0000ff</color><width>3</width></LineStyle></Style>
+<Style id="Level1"><LineStyle><color>ff00ff00</color><width>2</width></LineStyle></Style>
+<Style id="Level2"><LineStyle><color>ffff0000</color><width>1</width></LineStyle></Style>
+<Style id="Level3"><LineStyle><color>66666666</color><width>1</width></LineStyle></Style>
+<Style id="LabelStyleLevel0"><LabelStyle><color>ff0000ff</color><scale>1.0</scale></LabelStyle></Style>
+<Style id="LabelStyleLevel1"><LabelStyle><color>ff00ff00</color><scale>1.0</scale></LabelStyle></Style>
+<Style id="LabelStyleLevel2"><LabelStyle><color>ffffdddd</color><scale>1.0</scale></LabelStyle></Style>
+  <Placemark>
+    <styleUrl>LabelStyleLevel0</styleUrl>
+   <name>Lat -90</name>
+    <Point>
+      <coordinates>
+        -165,-90,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel0</styleUrl>
+   <name>Lat -60</name>
+    <Point>
+      <coordinates>
+        -165,-60,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel0</styleUrl>
+   <name>Lat -30</name>
+    <Point>
+      <coordinates>
+        -165,-30,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel0</styleUrl>
+   <name>Lat 0</name>
+    <Point>
+      <coordinates>
+        -165,0,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel0</styleUrl>
+   <name>Lat 30</name>
+    <Point>
+      <coordinates>
+        -165,30,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel0</styleUrl>
+   <name>Lat 60</name>
+    <Point>
+      <coordinates>
+        -165,60,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel0</styleUrl>
+   <name>Lat 90</name>
+    <Point>
+      <coordinates>
+        -165,90,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel0</styleUrl>
+   <name>Lon -180</name>
+    <Point>
+      <coordinates>
+        -180,-60,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel0</styleUrl>
+   <name>Lon -150</name>
+    <Point>
+      <coordinates>
+        -150,-60,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel0</styleUrl>
+   <name>Lon -120</name>
+    <Point>
+      <coordinates>
+        -120,-60,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel0</styleUrl>
+   <name>Lon -90</name>
+    <Point>
+      <coordinates>
+        -90,-60,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel0</styleUrl>
+   <name>Lon -60</name>
+    <Point>
+      <coordinates>
+        -60,-60,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel0</styleUrl>
+   <name>Lon -30</name>
+    <Point>
+      <coordinates>
+        -30,-60,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel0</styleUrl>
+   <name>Lon 0</name>
+    <Point>
+      <coordinates>
+        0,-60,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel0</styleUrl>
+   <name>Lon 30</name>
+    <Point>
+      <coordinates>
+        30,-60,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel0</styleUrl>
+   <name>Lon 60</name>
+    <Point>
+      <coordinates>
+        60,-60,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel0</styleUrl>
+   <name>Lon 90</name>
+    <Point>
+      <coordinates>
+        90,-60,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel0</styleUrl>
+   <name>Lon 120</name>
+    <Point>
+      <coordinates>
+        120,-60,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel0</styleUrl>
+   <name>Lon 150</name>
+    <Point>
+      <coordinates>
+        150,-60,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <styleUrl>LabelStyleLevel0</styleUrl>
+   <name>Lon 180</name>
+    <Point>
+      <coordinates>
+        180,-60,0
+      </coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>
