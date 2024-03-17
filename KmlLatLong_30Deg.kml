@@ -69,7 +69,7 @@
     <styleUrl>#Level0</styleUrl>
     <LineString>
       <coordinates>
-        -180.000,-80,0 -180.000,80,0
+        -180.000,-90,0 -180.000,90,0
       </coordinates>
     </LineString>
   </Placemark>
@@ -77,7 +77,7 @@
     <styleUrl>#Level0</styleUrl>
     <LineString>
       <coordinates>
-        -150.000,-80,0 -150.000,80,0
+        -150.000,-90,0 -150.000,90,0
       </coordinates>
     </LineString>
   </Placemark>
@@ -85,7 +85,7 @@
     <styleUrl>#Level0</styleUrl>
     <LineString>
       <coordinates>
-        -120.000,-80,0 -120.000,80,0
+        -120.000,-90,0 -120.000,90,0
       </coordinates>
     </LineString>
   </Placemark>
@@ -93,7 +93,7 @@
     <styleUrl>#Level0</styleUrl>
     <LineString>
       <coordinates>
-        -90.000,-80,0 -90.000,80,0
+        -90.000,-90,0 -90.000,90,0
       </coordinates>
     </LineString>
   </Placemark>
@@ -101,7 +101,7 @@
     <styleUrl>#Level0</styleUrl>
     <LineString>
       <coordinates>
-        -60.000,-80,0 -60.000,80,0
+        -60.000,-90,0 -60.000,90,0
       </coordinates>
     </LineString>
   </Placemark>
@@ -109,7 +109,7 @@
     <styleUrl>#Level0</styleUrl>
     <LineString>
       <coordinates>
-        -30.000,-80,0 -30.000,80,0
+        -30.000,-90,0 -30.000,90,0
       </coordinates>
     </LineString>
   </Placemark>
@@ -117,7 +117,7 @@
     <styleUrl>#Level0</styleUrl>
     <LineString>
       <coordinates>
-        0.000,-80,0 0.000,80,0
+        0.000,-90,0 0.000,90,0
       </coordinates>
     </LineString>
   </Placemark>
@@ -125,7 +125,7 @@
     <styleUrl>#Level0</styleUrl>
     <LineString>
       <coordinates>
-        30.000,-80,0 30.000,80,0
+        30.000,-90,0 30.000,90,0
       </coordinates>
     </LineString>
   </Placemark>
@@ -133,7 +133,7 @@
     <styleUrl>#Level0</styleUrl>
     <LineString>
       <coordinates>
-        60.000,-80,0 60.000,80,0
+        60.000,-90,0 60.000,90,0
       </coordinates>
     </LineString>
   </Placemark>
@@ -141,7 +141,7 @@
     <styleUrl>#Level0</styleUrl>
     <LineString>
       <coordinates>
-        90.000,-80,0 90.000,80,0
+        90.000,-90,0 90.000,90,0
       </coordinates>
     </LineString>
   </Placemark>
@@ -149,7 +149,7 @@
     <styleUrl>#Level0</styleUrl>
     <LineString>
       <coordinates>
-        120.000,-80,0 120.000,80,0
+        120.000,-90,0 120.000,90,0
       </coordinates>
     </LineString>
   </Placemark>
@@ -157,7 +157,7 @@
     <styleUrl>#Level0</styleUrl>
     <LineString>
       <coordinates>
-        150.000,-80,0 150.000,80,0
+        150.000,-90,0 150.000,90,0
       </coordinates>
     </LineString>
   </Placemark>
@@ -165,7 +165,7 @@
     <styleUrl>#Level0</styleUrl>
     <LineString>
       <coordinates>
-        180.000,-80,0 180.000,80,0
+        180.000,-90,0 180.000,90,0
       </coordinates>
     </LineString>
   </Placemark>

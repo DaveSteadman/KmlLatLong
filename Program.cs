@@ -19,7 +19,7 @@ class KmlGenerator
 
         // Generate Longitude Lines
         for (int lon = -180; lon <= 180; lon+=30)
-            AddLonLine(kmlContent, lon, styleUrl);
+            AddLonLine90(kmlContent, lon, styleUrl);
 
         WriteKmlFooter(kmlContent);
 
@@ -316,6 +316,19 @@ class KmlGenerator
         kmlContent.AppendLine("    </LineString>");
         kmlContent.AppendLine("  </Placemark>");
     }
+
+    private void AddLonLine90(StringBuilder kmlContent, float longitude, string styleUrl)
+    {
+        kmlContent.AppendLine("  <Placemark>");
+        kmlContent.AppendLine($"    <styleUrl>#{styleUrl}</styleUrl>");
+        kmlContent.AppendLine("    <LineString>");
+        kmlContent.AppendLine("      <coordinates>");
+        kmlContent.AppendLine($"        {longitude:F3},-90,0 {longitude:F3},90,0");
+        kmlContent.AppendLine("      </coordinates>");
+        kmlContent.AppendLine("    </LineString>");
+        kmlContent.AppendLine("  </Placemark>");
+    }
+
 
     private void AddLabel(StringBuilder kmlContent, double lat, double lon, string stylename, string text)
     {
