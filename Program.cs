@@ -229,6 +229,65 @@ class KmlGenerator
         File.WriteAllText(filePath, kmlContent.ToString());
     }
 
+
+    public void GenerateKmlFile_1Deg_Positions()
+    {
+        string filePath = "KmlLatLong_1Deg_PosLabels.kml";
+        var kmlContent = new StringBuilder();
+
+        WriteKmlHeader(kmlContent);
+
+        // Generate Latitude Lines
+        string styleUrl = "LabelStyleLevel2";
+
+        for (int lat = -80; lat <=80; lat+=1)
+        {
+            for (int lon = -180; lon<=180; lon+=5)
+            {
+                string NSCode = lat < 0 ? "S" : "N";
+                string EWCode = lon < 0 ? "W" : "E";
+                int absLat = Math.Abs(lat);
+                int absLon = Math.Abs(lon);
+                string label = $"{NSCode}{absLat:D2}{EWCode}{absLon:D3} ";
+
+                float adjLon = lon + 0.5f;
+                AddLabel(kmlContent, absLat, absLon, styleUrl, label);
+            }
+        }
+
+        WriteKmlFooter(kmlContent);
+        File.WriteAllText(filePath, kmlContent.ToString());
+    }
+
+    public void GenerateKmlFile_1Deg_Positions_Europe()
+    {
+        string filePath = "KmlLatLong_1Deg_PosLabelsEurope.kml";
+        var kmlContent = new StringBuilder();
+
+        WriteKmlHeader(kmlContent);
+
+        // Generate Latitude Lines
+        string styleUrl = "LabelStyleLevel2";
+
+        for (int lat = 30; lat <=80; lat+=1)
+        {
+            for (int lon = -20; lon<=90; lon+=1)
+            {
+                string NSCode = lat < 0 ? "S" : "N";
+                string EWCode = lon < 0 ? "W" : "E";
+                int absLat = Math.Abs(lat);
+                int absLon = Math.Abs(lon);
+                string label = $"{NSCode}{absLat:D2}{EWCode}{absLon:D3} ";
+
+                float adjLon = lon + 0.5f;
+                AddLabel(kmlContent, absLat, absLon, styleUrl, label);
+            }
+        }
+
+        WriteKmlFooter(kmlContent);
+        File.WriteAllText(filePath, kmlContent.ToString());
+    }
+
     // --------------------------------------------------------------------------------------------
 
     public void GenerateKmlFile_Lvl0TileCodes()
@@ -329,7 +388,6 @@ class KmlGenerator
         kmlContent.AppendLine("  </Placemark>");
     }
 
-
     private void AddLabel(StringBuilder kmlContent, double lat, double lon, string stylename, string text)
     {
         kmlContent.AppendLine("  <Placemark>");
@@ -357,6 +415,8 @@ class Program
 
         generator.GenerateKmlFile_1Deg();
         generator.GenerateKmlFile_1DegLabels();
+        generator.GenerateKmlFile_1Deg_Positions();
+        generator.GenerateKmlFile_1Deg_Positions_Europe();
 
         generator.GenerateKmlFile_0p2Deg();
         generator.GenerateKmlFile_Lvl0TileCodes();
